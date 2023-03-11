@@ -14,10 +14,10 @@ the app spins up a HTTP server on the android device, and listens on port 1234 f
 1. enjoy you have the file now on your ios 
 
 #### Android
-![](https://github.com/bahaaEldeen1999/android-qrcp/new/master/android_demo.gif)
+![](https://github.com/bahaaEldeen1999/android-qrcp/blob/master/android_demo.gif)
 
 #### IOS
-![](https://github.com/bahaaEldeen1999/android-qrcp/new/master/ios_demo.gif)
+![](https://github.com/bahaaEldeen1999/android-qrcp/blob/master/ios_demo.gif)
 
 ### current limitation 
 - only send one file at a time (to get around this you will need to compress your files into a single zip file)
